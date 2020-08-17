@@ -96,7 +96,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:springframeworkguru/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:p1-bohao-li/sfg-pet-clinic.git</developerConnection>
+
       <tag>HEAD</tag>
   </scm>
 
